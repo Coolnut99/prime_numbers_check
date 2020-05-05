@@ -1,0 +1,6 @@
+c:\users\fred\documents\visual studio 2015\Projects\r_and_f_1\r_and_f_1\bin\Debug\r_and_f_1.exe.config
+c:\users\fred\documents\visual studio 2015\Projects\r_and_f_1\r_and_f_1\bin\Debug\r_and_f_1.exe
+c:\users\fred\documents\visual studio 2015\Projects\r_and_f_1\r_and_f_1\bin\Debug\r_and_f_1.pdb
+c:\users\fred\documents\visual studio 2015\Projects\r_and_f_1\r_and_f_1\obj\Debug\r_and_f_1.exe
+c:\users\fred\documents\visual studio 2015\Projects\r_and_f_1\r_and_f_1\obj\Debug\r_and_f_1.pdb
+c:\Users\Fred\Documents\Visual Studio 2015\Projects\r_and_f_1\r_and_f_1\obj\Debug\r_and_f_1.csprojResolveAssemblyReference.cache
